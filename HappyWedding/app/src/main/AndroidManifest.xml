@@ -18,7 +18,11 @@
         </activity>
         <activity android:name=".halamanawal" />
         <activity android:name=".login" />
-        <activity android:name=".register"></activity>
+        <activity android:name=".register" />
+        <activity android:name=".Beranda" />
+        <activity android:name=".salon" />
+        <activity android:name=".profil" />
+        <activity android:name=".bantuan"></activity>
     </application>
 
 </manifest>
