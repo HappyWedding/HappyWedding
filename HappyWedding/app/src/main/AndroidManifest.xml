@@ -22,7 +22,8 @@
         <activity android:name=".Beranda" />
         <activity android:name=".salon" />
         <activity android:name=".profil" />
-        <activity android:name=".bantuan"></activity>
+        <activity android:name=".bantuan" />
+        <activity android:name=".keranjang"></activity>
     </application>
 
 </manifest>
